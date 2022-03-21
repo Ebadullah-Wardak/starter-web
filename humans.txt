@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Ebadullah Wardak    ebadullah@git.training @helloWorld
 
     <name> -- <role> -- <twitter>
 	I'm making some changes to test the two different pushes
