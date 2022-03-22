@@ -10,7 +10,7 @@
 	Making more changes
 
 # THANKS
-
+	I'm a student and I want to learn git
     <name>
 
 # TECHNOLOGY COLOPHON
